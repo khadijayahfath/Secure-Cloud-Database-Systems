@@ -34,7 +34,8 @@ It analyzes key **security threats**, examines **real-world incidents**, and pro
 ## 🧩 Multi-Layered Security Framework
 
 The following diagram illustrates the proposed secure architecture for cloud-based database systems.
-
+**Figure 1. Secure Cloud Database Architecture**  
+> ![Secure Cloud Database Architecture](image.png)
 ---
 
 ##  Key Insights
